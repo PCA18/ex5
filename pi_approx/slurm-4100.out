@@ -1,0 +1,480 @@
+Cylcles  = 57919826
+pi = 3.1415927369231
+threads = 1
+iter = 1000
+
+Cylcles  = 56090635
+pi = 3.1415927369231
+threads = 1
+iter = 1000
+
+Cylcles  = 55894535
+pi = 3.1415927369231
+threads = 1
+iter = 1000
+
+Cylcles  = 57551270
+pi = 3.1415927369231
+threads = 1
+iter = 1000
+
+Cylcles  = 57178273
+pi = 3.1415927369231
+threads = 2
+iter = 1000
+
+Cylcles  = 56077904
+pi = 3.1415927369231
+threads = 2
+iter = 1000
+
+Cylcles  = 57421885
+pi = 3.1415927369231
+threads = 2
+iter = 1000
+
+Cylcles  = 58092203
+pi = 3.1415927369231
+threads = 2
+iter = 1000
+
+Cylcles  = 55623131
+pi = 3.1415927369231
+threads = 4
+iter = 1000
+
+Cylcles  = 57064684
+pi = 3.1415927369231
+threads = 4
+iter = 1000
+
+Cylcles  = 57435300
+pi = 3.1415927369231
+threads = 4
+iter = 1000
+
+Cylcles  = 58039742
+pi = 3.1415927369231
+threads = 4
+iter = 1000
+
+Cylcles  = 57742216
+pi = 3.1415927369231
+threads = 8
+iter = 1000
+
+Cylcles  = 57597023
+pi = 3.1415927369231
+threads = 8
+iter = 1000
+
+Cylcles  = 58752230
+pi = 3.1415927369231
+threads = 8
+iter = 1000
+
+Cylcles  = 59727649
+pi = 3.1415927369231
+threads = 8
+iter = 1000
+
+Cylcles  = 56557620
+pi = 3.1415927369231
+threads = 16
+iter = 1000
+
+Cylcles  = 57198084
+pi = 3.1415927369231
+threads = 16
+iter = 1000
+
+Cylcles  = 56828887
+pi = 3.1415927369231
+threads = 16
+iter = 1000
+
+Cylcles  = 58073636
+pi = 3.1415927369231
+threads = 16
+iter = 1000
+
+Cylcles  = 56394823
+pi = 3.1415927369231
+threads = 32
+iter = 1000
+
+Cylcles  = 57558197
+pi = 3.1415927369231
+threads = 32
+iter = 1000
+
+Cylcles  = 57648340
+pi = 3.1415927369231
+threads = 32
+iter = 1000
+
+Cylcles  = 58671737
+pi = 3.1415927369231
+threads = 32
+iter = 1000
+
+Cylcles  = 569911940
+pi = 3.1415926544231
+threads = 1
+iter = 10000
+
+Cylcles  = 571215040
+pi = 3.1415926544231
+threads = 1
+iter = 10000
+
+Cylcles  = 579396549
+pi = 3.1415926544231
+threads = 1
+iter = 10000
+
+Cylcles  = 595840765
+pi = 3.1415926544231
+threads = 1
+iter = 10000
+
+Cylcles  = 575720510
+pi = 3.1415926544231
+threads = 2
+iter = 10000
+
+Cylcles  = 576829705
+pi = 3.1415926544231
+threads = 2
+iter = 10000
+
+Cylcles  = 582649471
+pi = 3.1415926544231
+threads = 2
+iter = 10000
+
+Cylcles  = 586485227
+pi = 3.1415926544231
+threads = 2
+iter = 10000
+
+Cylcles  = 558947203
+pi = 3.1415926544231
+threads = 4
+iter = 10000
+
+Cylcles  = 578665391
+pi = 3.1415926544231
+threads = 4
+iter = 10000
+
+Cylcles  = 579637910
+pi = 3.1415926544231
+threads = 4
+iter = 10000
+
+Cylcles  = 581289250
+pi = 3.1415926544231
+threads = 4
+iter = 10000
+
+Cylcles  = 575774465
+pi = 3.1415926544231
+threads = 8
+iter = 10000
+
+Cylcles  = 580329319
+pi = 3.1415926544231
+threads = 8
+iter = 10000
+
+Cylcles  = 588107089
+pi = 3.1415926544231
+threads = 8
+iter = 10000
+
+Cylcles  = 598115843
+pi = 3.1415926544231
+threads = 8
+iter = 10000
+
+Cylcles  = 535587575
+pi = 3.1415926544231
+threads = 16
+iter = 10000
+
+Cylcles  = 579719920
+pi = 3.1415926544231
+threads = 16
+iter = 10000
+
+Cylcles  = 589900685
+pi = 3.1415926544231
+threads = 16
+iter = 10000
+
+Cylcles  = 590552028
+pi = 3.1415926544231
+threads = 16
+iter = 10000
+
+Cylcles  = 558042695
+pi = 3.1415926544231
+threads = 32
+iter = 10000
+
+Cylcles  = 558300845
+pi = 3.1415926544231
+threads = 32
+iter = 10000
+
+Cylcles  = 573666605
+pi = 3.1415926544231
+threads = 32
+iter = 10000
+
+Cylcles  = 579565840
+pi = 3.1415926544231
+threads = 32
+iter = 10000
+
+Cylcles  = 5678733952
+pi = 3.1415926535982
+threads = 1
+iter = 100000
+
+Cylcles  = 5688771036
+pi = 3.1415926535982
+threads = 1
+iter = 100000
+
+Cylcles  = 5752906434
+pi = 3.1415926535982
+threads = 1
+iter = 100000
+
+Cylcles  = 5850914738
+pi = 3.1415926535982
+threads = 1
+iter = 100000
+
+Cylcles  = 5718649730
+pi = 3.1415926535982
+threads = 2
+iter = 100000
+
+Cylcles  = 5767191271
+pi = 3.1415926535982
+threads = 2
+iter = 100000
+
+Cylcles  = 5885760595
+pi = 3.1415926535982
+threads = 2
+iter = 100000
+
+Cylcles  = 5932923442
+pi = 3.1415926535982
+threads = 2
+iter = 100000
+
+Cylcles  = 5601507773
+pi = 3.1415926535982
+threads = 4
+iter = 100000
+
+Cylcles  = 5685875396
+pi = 3.1415926535982
+threads = 4
+iter = 100000
+
+Cylcles  = 5864679767
+pi = 3.1415926535982
+threads = 4
+iter = 100000
+
+Cylcles  = 5881341160
+pi = 3.1415926535982
+threads = 4
+iter = 100000
+
+Cylcles  = 5642836139
+pi = 3.1415926535982
+threads = 8
+iter = 100000
+
+Cylcles  = 5708658167
+pi = 3.1415926535982
+threads = 8
+iter = 100000
+
+Cylcles  = 5741605479
+pi = 3.1415926535982
+threads = 8
+iter = 100000
+
+Cylcles  = 5827923005
+pi = 3.1415926535982
+threads = 8
+iter = 100000
+
+Cylcles  = 5714331296
+pi = 3.1415926535982
+threads = 16
+iter = 100000
+
+Cylcles  = 5719505915
+pi = 3.1415926535982
+threads = 16
+iter = 100000
+
+Cylcles  = 5725549639
+pi = 3.1415926535982
+threads = 16
+iter = 100000
+
+Cylcles  = 5883088759
+pi = 3.1415926535982
+threads = 16
+iter = 100000
+
+Cylcles  = 5644646199
+pi = 3.1415926535982
+threads = 32
+iter = 100000
+
+Cylcles  = 5667488543
+pi = 3.1415926535982
+threads = 32
+iter = 100000
+
+Cylcles  = 5813039268
+pi = 3.1415926535982
+threads = 32
+iter = 100000
+
+Cylcles  = 5877466915
+pi = 3.1415926535982
+threads = 32
+iter = 100000
+
+Cylcles  = 56624065418
+pi = 3.1415926535900
+threads = 1
+iter = 1000000
+
+Cylcles  = 56873045103
+pi = 3.1415926535900
+threads = 1
+iter = 1000000
+
+Cylcles  = 57291377784
+pi = 3.1415926535900
+threads = 1
+iter = 1000000
+
+Cylcles  = 58040089681
+pi = 3.1415926535900
+threads = 1
+iter = 1000000
+
+Cylcles  = 56287233762
+pi = 3.1415926535900
+threads = 2
+iter = 1000000
+
+Cylcles  = 57512167789
+pi = 3.1415926535900
+threads = 2
+iter = 1000000
+
+Cylcles  = 58007216070
+pi = 3.1415926535900
+threads = 2
+iter = 1000000
+
+Cylcles  = 58503182608
+pi = 3.1415926535900
+threads = 2
+iter = 1000000
+
+Cylcles  = 57603984325
+pi = 3.1415926535900
+threads = 4
+iter = 1000000
+
+Cylcles  = 57689960025
+pi = 3.1415926535900
+threads = 4
+iter = 1000000
+
+Cylcles  = 57838741899
+pi = 3.1415926535900
+threads = 4
+iter = 1000000
+
+Cylcles  = 58185225157
+pi = 3.1415926535900
+threads = 4
+iter = 1000000
+
+Cylcles  = 57044005663
+pi = 3.1415926535900
+threads = 8
+iter = 1000000
+
+Cylcles  = 57893793566
+pi = 3.1415926535900
+threads = 8
+iter = 1000000
+
+Cylcles  = 58102403915
+pi = 3.1415926535900
+threads = 8
+iter = 1000000
+
+Cylcles  = 58446111715
+pi = 3.1415926535900
+threads = 8
+iter = 1000000
+
+Cylcles  = 55705368290
+pi = 3.1415926535900
+threads = 16
+iter = 1000000
+
+Cylcles  = 56564383376
+pi = 3.1415926535900
+threads = 16
+iter = 1000000
+
+Cylcles  = 57059946317
+pi = 3.1415926535900
+threads = 16
+iter = 1000000
+
+Cylcles  = 58435255231
+pi = 3.1415926535900
+threads = 16
+iter = 1000000
+
+Cylcles  = 56473881828
+pi = 3.1415926535900
+threads = 32
+iter = 1000000
+
+Cylcles  = 57771142337
+pi = 3.1415926535900
+threads = 32
+iter = 1000000
+
+Cylcles  = 58613175886
+pi = 3.1415926535900
+threads = 32
+iter = 1000000
+
+Cylcles  = 58659718462
+pi = 3.1415926535900
+threads = 32
+iter = 1000000
+
